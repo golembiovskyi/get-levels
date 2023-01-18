@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Get Levels</Name>
+    <Assembly>Z:\Documents\GitHub\BIT\GetLevels\bin\Debug\GetLevels.dll</Assembly>
+    <AddInId>8AB6A6B3-8A84-4D2D-AD1D-F2D946148142</AddInId>
+    <FullClassName>BIT.GetLevelsCommand</FullClassName>
+    <Text>Get Levels</Text>
+    <VendorId>Sergii Golembiovskyi</VendorId>
+    <VendorDescription>Sergii Golembiovskyi, golembiovskyi@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
